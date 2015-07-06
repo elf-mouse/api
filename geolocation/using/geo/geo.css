@@ -1,0 +1,17 @@
+html {
+  background: #fff;
+  font: 100 80% helvetica, arial, verdana, sans-serif;
+  color: #494949;
+  margin: 0;
+  padding: 1em;
+}
+
+div {
+  float: left;
+  width: 100%;
+}
+
+#output {
+  padding: 0.5em;
+  border: 1px solid #999;
+}
